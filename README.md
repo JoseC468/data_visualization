@@ -7,4 +7,4 @@ Los gráficos fueron publicados en mi cuenta de GitHub (JoseC468), adjunto enlac
 
 GitHub: https://github.com/JoseC468/data_visualization
 
-Los gráficos fueron realizados en el programa de Python.  
+Los gráficos fueron creados utilizando Python. En el proceso de explicación durante la grabación, detallamos tres tipos de gráficos: Bar Chart, Diagrama de Redes (Network Diagram) y Ridgeline Chart. Durante la presentación de cada gráfico, abordamos los puntos 3, 4, 5 y 6 correspondientes a cada uno de ellos.
